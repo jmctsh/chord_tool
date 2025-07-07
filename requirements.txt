@@ -1,3 +1,0 @@
-# 本项目仅使用Python标准库，无需额外依赖
-# 如需打包为exe，请安装PyInstaller：
-# pip install pyinstaller 
